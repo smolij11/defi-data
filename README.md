@@ -38,3 +38,15 @@ mkrweth - Uniswap V3 MKR/WETH 0xe8c6c9227491c0a8156a0106a0204d881bb7e531
 **Data between Nov-27-2023 09:26:23 - Dec-28-2023 05:38:47 +UTC**
 
 linkweth - Uniswap V3 LINK/WETH 0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8
+
+## rlb.csv
+
+**Data between Nov-27-2023 09:26:23 - Dec-28-2023 05:38:47 +UTC**
+
+rlbweth - Uniswap V3 RLB/WETH 0x510100d5143e011db24e2aa38abe85d73d5b2177
+
+## uni.csv
+
+**Data between Nov-27-2023 09:26:23 - Dec-28-2023 05:38:47 +UTC**
+
+uniweth - Uniswap V3 UNI/WETH 0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801
