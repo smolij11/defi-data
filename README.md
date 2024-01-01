@@ -50,3 +50,11 @@ rlbweth - Uniswap V3 RLB/WETH 0x510100d5143e011db24e2aa38abe85d73d5b2177
 **Data between Nov-27-2023 09:26:23 - Dec-28-2023 05:38:47 +UTC**
 
 uniweth - Uniswap V3 UNI/WETH 0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801
+
+## rpl.csv
+
+**Data between Nov-27-2023 09:26:23 - Dec-28-2023 05:38:47 +UTC**
+
+rplweth - Uniswap V3 RPL/WETH 0xe42318ea3b998e8355a3da364eb9d48ec725eb45
+
+There is around 10% of volume on-chain
