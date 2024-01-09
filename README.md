@@ -74,3 +74,11 @@ metisweth - Uniswap V3 METIS/WETH 0x1c98562a2fab5af19d8fb3291a36ac3c618835d9
 mubiweth - Uniswap V3 MUBI/WETH 0x844eb5c280f38c7462316aad3f338ef9bda62668
 
 38% volume on-chain, listed on gate.io, MEXC and KuCoin
+
+## ldo.csv
+
+**Data between Nov-27-2023 09:26:23 - Dec-28-2023 05:38:47 +UTC**
+
+ldoweth - Uniswap V3 LDO/WETH 0xa3f558aebaecaf0e11ca4b2199cc5ed341edfd74
+
+6.3% of volume on-chain, 25% of volume on Binance
