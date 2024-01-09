@@ -13,6 +13,8 @@
 
 OPTIONAL **price_weth**: Some assets on Ethererum trade against WETH. Both WETH price and calculated USD price are saved then. USD price is calculated by multiplication with on-chain WETHUSDC Uni V3 price
 
+OPTIONAL **price_wbtc**: saved if asset is traded in a pair with WBTC
+
 ## weth.csv
 
 **Data between Nov-27-2023 09:26:23 - Dec-28-2023 05:38:47 +UTC**
@@ -82,3 +84,11 @@ mubiweth - Uniswap V3 MUBI/WETH 0x844eb5c280f38c7462316aad3f338ef9bda62668
 ldoweth - Uniswap V3 LDO/WETH 0xa3f558aebaecaf0e11ca4b2199cc5ed341edfd74
 
 6.3% of volume on-chain, 25% of volume on Binance
+
+## badger.csv
+
+**Data between Nov-27-2023 09:26:23 - Dec-28-2023 05:38:47 +UTC**
+
+badgerwbtc - Uniswap V3 BADGER/WBTC 0xe15e6583425700993bd08f51bf6e7b73cd5da91b
+
+around 10% volume Uniswap, 40% volume Binance
