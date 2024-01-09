@@ -92,3 +92,11 @@ ldoweth - Uniswap V3 LDO/WETH 0xa3f558aebaecaf0e11ca4b2199cc5ed341edfd74
 badgerwbtc - Uniswap V3 BADGER/WBTC 0xe15e6583425700993bd08f51bf6e7b73cd5da91b
 
 around 10% volume Uniswap, 40% volume Binance
+
+## inj.csv
+
+**Data between Nov-27-2023 09:26:23 - Dec-28-2023 05:38:47 +UTC**
+
+injweth - Uniswap V3 INJ/WETH 0x6c063a6e8cd45869b5eb75291e65a3de298f3aa8
+
+High Uniswap volume but much lower compared to the Binance
